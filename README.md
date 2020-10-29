@@ -1,7 +1,12 @@
 # Digital Talent Incubator
 > Source code for DTI, Dimas Samodra-DS0107
 
-![](header.png)
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="header.png" alt="Logo" width="80" height="80">
+  </a>
+</p>
 
 ## Task per Week
 
