@@ -1,8 +1,6 @@
 # Digital Talent Incubator
 > Source code for DTI, Dimas Samodra-DS0107
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## Task per Week
