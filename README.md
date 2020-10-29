@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://kemahasiswaan.ittelkom-pwt.ac.id/2020/09/01/telkom-digital-talent-incubator-2020/">
-    <img src="header.PNG" alt="Logo" width="230" height="120">
+    <img src="images/header.png" alt="Logo" width="230" height="120">
   </a>
 </p>
 
