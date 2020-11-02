@@ -11,8 +11,9 @@
 ## Task per Week
 
 Please follow this file guide for task per week
-- Week 1 : Multiple Regression
-- Week 2 : Classification
+- Week 1 : Multiple Regression 17 oct
+- Week 2 : Classification 24 oct
+- Week 3 : Clustering 31 oct
 
 ## Contact Me
 
