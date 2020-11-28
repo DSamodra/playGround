@@ -11,9 +11,10 @@
 ## Task per Week
 
 Please follow this file guide for task per week
-- Week 1 : Multiple Regression 17 oct
-- Week 2 : Classification 24 oct
-- Week 3 : Clustering 31 oct
+- Week 1 : Multiple Regression 17 Oct
+- Week 2 : Classification 24 Oct
+- Week 3 : Clustering 31 Oct
+- Week 4 : Detect Hate Speech 21 Nov
 
 ## Contact Me
 
